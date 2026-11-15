@@ -1,0 +1,9 @@
+    l1.insertathead(4);
+    l1.insertattail(7);
+    l1.insertattail(8);
+    l1.display();
+    cout<<endl;
+    cout<<l1.search(4)<<endl;
+    l1.deletefromhead();
+    l1.display();
+     cout<<endl;
